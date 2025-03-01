@@ -3,7 +3,7 @@
 - 🤔 I’m looking for help with Python because I'm still learning
 - 📫 How to reach me: dreaded-56dogs@icloud.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm still in high school
+- ⚡ Fun fact: I love HotWheels cars
 
 <!--
 **Somekash/Somekash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
